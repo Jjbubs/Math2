@@ -4,6 +4,8 @@
 Created on Sat Jan  6 11:22:44 2024
 
 @author: Halogene
+
+Checking For updates on GitHub
 """
 import sympy as sy
 import numpy as np
